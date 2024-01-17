@@ -13,4 +13,5 @@ Note: Feed 20 to 30 Links as per execution, because site has anti scrapping bots
 <br>
 #3  Rename your Google Chrome Profile link which you want to use, on Line No. 11 Like this <strong>"C:\\Users\\Naveed Siddiqui\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 2" </strong>
 You can fetch your profile link by typing <strong>"chrome://version"</strong> in address bar, here you will find your profile address named as <strong>"Profile Path"</strong>
+<br>
 #4 After the execution of script a file will created named as <strong>"scraped_data"</strong> in same folder
